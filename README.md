@@ -13,8 +13,9 @@ Welcome to **Flashcard-Quiz-App**! This repository contains a sample project to 
 - [Features](#-features)
 - [Installation](#-installation)
 
-Technologies Used
-Kotlin Language
+
+## Technologies Used
+- Kotlin Language
 
 ## 📖 Description
 
