@@ -13,9 +13,8 @@ Welcome to **Flashcard-Quiz-App**! This repository contains a sample project to 
 - [Features](#-features)
 - [Installation](#-installation)
 
-## 💻 Languages Used
-
-- ![Kotlin](https://img.shields.io/badge/Kotlin-1.x-blue.svg)
+Technologies Used
+Kotlin Language
 
 ## 📖 Description
 
